@@ -42,8 +42,8 @@ Follow these steps to get the project up and running on your local machine:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/sumonprodhan-dev/eCommerce_Project](https://github.com/sumonprodhan-dev/eCommerce_Project)
-    cd your-repo-name
+    git clone (https://github.com/sumonprodhan-dev/eCommerce_Project)
+    cd eCommerce_Project
     ```
 
 2.  **Install Dependencies:**
